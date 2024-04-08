@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "26d1",
+      "title": "NextJS",
+      "completed": true
+    },
+    {
+      "id": "ada6",
+      "title": "VewJS",
+      "completed": false
+    },
+    {
+      "id": "39fe",
+      "title": "ReactJS",
+      "completed": true
+    }
+  ]
+}
