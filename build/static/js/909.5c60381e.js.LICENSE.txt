@@ -1,0 +1,2446 @@
+/*! react/jsx-runtime */
+
+/*! ./useBaseQuery.js */
+
+/*! ../html/use-props.mjs */
+
+/*! @emotion/react */
+
+/*! ./chunk-WXARPSDQ.mjs */
+
+/*! ./chunk-B75T2J64.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./chunk-VXESY33O.mjs */
+
+/*! @emotion/serialize */
+
+/*! react-dom */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../motion/features/definitions.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../../utils/noop.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-SIH73G3H.mjs */
+
+/*! ../../value/types/color/rgba.mjs */
+
+/*! ./Utility.js */
+
+/*! ./notifyManager.js */
+
+/*! ../../frameloop/sync-time.mjs */
+
+/*! ./utils/create-config.mjs */
+
+/*! ../dom/DOMVisualElement.mjs */
+
+/*! @emotion/cache */
+
+/*! ../../value/utils/resolve-motion-value.mjs */
+
+/*! ./utils.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! react */
+
+/*! ./chunk-UVUR7MCU.mjs */
+
+/*! ./chunk-VHM7WLW6.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./Utility.js */
+
+/*! ./utils.js */
+
+/*! @chakra-ui/shared-utils */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ./motion/utils/use-visual-state.mjs */
+
+/*! ../../animation/utils/is-animation-controls.mjs */
+
+/*! ../../value/utils/is-motion-value.mjs */
+
+/*! ./PopChild.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./notifyManager.js */
+
+/*! ./batcher.mjs */
+
+/*! ./chunk-LHPMGMGT.mjs */
+
+/*! ../../projection/node/HTMLProjectionNode.mjs */
+
+/*! ../../html/utils/scrape-motion-values.mjs */
+
+/*! ./chunk-SRBDDT7F.mjs */
+
+/*! ./chunk-XCES3W5V.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./dom/value-types/find.mjs */
+
+/*! ./utils/scrape-motion-values.mjs */
+
+/*! ./chunk-V7WMN6TQ.mjs */
+
+/*! ./state.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./Serializer.js */
+
+/*! ../../svg/config-motion.mjs */
+
+/*! ./chunk-VZUATZ4E.mjs */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ../shared/stack.mjs */
+
+/*! ./render/VisualElement.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./mutation.js */
+
+/*! ./utils/is-primary-pointer.mjs */
+
+/*! react */
+
+/*! ../../utils/noop.mjs */
+
+/*! ../../utils/noop.mjs */
+
+/*! @chakra-ui/react-use-merge-refs */
+
+/*! @chakra-ui/react-use-update-effect */
+
+/*! ../../../value/types/color/index.mjs */
+
+/*! ../../events/utils/is-primary-pointer.mjs */
+
+/*! ./motion-proxy.mjs */
+
+/*! ./chunk-O6GGGS4Y.mjs */
+
+/*! ./back.mjs */
+
+/*! @chakra-ui/react-use-callback-ref */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./utils/use-visual-element.mjs */
+
+/*! ./chunk-X7ZBZ4KW.mjs */
+
+/*! @chakra-ui/system */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-T6ZDZOLO.mjs */
+
+/*! ./chunk-NJCYBKFH.mjs */
+
+/*! ../../../frameloop/microtask.mjs */
+
+/*! ../../projection/utils/measure.mjs */
+
+/*! @chakra-ui/color-mode */
+
+/*! ./chunk-5PL47M24.mjs */
+
+/*! react */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/react-context */
+
+/*! ../../../value/types/numbers/units.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! @chakra-ui/styled-system */
+
+/*! @emotion/react */
+
+/*! ../Feature.mjs */
+
+/*! react */
+
+/*! ./chunk-37MNRBP2.mjs */
+
+/*! ../../../motion/utils/is-forced-motion-value.mjs */
+
+/*! ../../utils/get-context-window.mjs */
+
+/*! ./chunk-G72KV6MB.mjs */
+
+/*! react */
+
+/*! ../../value/types/numbers/units.mjs */
+
+/*! ./chunk-D6DZ26HA.mjs */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ../../html/utils/create-render-state.mjs */
+
+/*! ../../animation/utils/is-keyframes-target.mjs */
+
+/*! react */
+
+/*! ./resolve-variants.mjs */
+
+/*! ../Feature.mjs */
+
+/*! @emotion/serialize */
+
+/*! ../../context/MotionContext/index.mjs */
+
+/*! ./chunk-Q5ZQE4MD.mjs */
+
+/*! ../context/LayoutGroupContext.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-R7ZISUMV.mjs */
+
+/*! ./chunk-ZFQCCYWD.mjs */
+
+/*! react */
+
+/*! @chakra-ui/styled-system */
+
+/*! @emotion/is-prop-valid */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./utils.js */
+
+/*! ../../../context/LayoutGroupContext.mjs */
+
+/*! ../use-render.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../utils/is-zero-value-string.mjs */
+
+/*! react */
+
+/*! ./utils/resolve-variants.mjs */
+
+/*! ../../../frameloop/frame.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./animation/index.mjs */
+
+/*! ./definitions.mjs */
+
+/*! react */
+
+/*! @babel/runtime/helpers/extends */
+
+/*! ../utils/pipe.mjs */
+
+/*! ./chunk-QAITB7GG.mjs */
+
+/*! ./is-browser.mjs */
+
+/*! ./waapi/easing.mjs */
+
+/*! ./value/types/numbers/units.mjs */
+
+/*! ./chunk-BNQWYFTH.mjs */
+
+/*! ../ease.mjs */
+
+/*! ./motion/index.mjs */
+
+/*! ./test.mjs */
+
+/*! @emotion/react */
+
+/*! @chakra-ui/styled-system */
+
+/*! react/jsx-runtime */
+
+/*! ../../../utils/clamp.mjs */
+
+/*! ./MainThreadAnimation.mjs */
+
+/*! ./chunk-KJ26FGJD.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../gestures/pan/index.mjs */
+
+/*! ./chunk-VZUATZ4E.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! react */
+
+/*! ./resolve-dynamic-variants.mjs */
+
+/*! ./is-motion-value.mjs */
+
+/*! react */
+
+/*! ./chunk-7OOI6RFH.mjs */
+
+/*! ./number.mjs */
+
+/*! ./chunk-34PD6CUK.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./animation/optimized-appear/data-id.mjs */
+
+/*! react-fast-compare */
+
+/*! @emotion/utils */
+
+/*! ../../utils/noop.mjs */
+
+/*! ../../html/utils/transform.mjs */
+
+/*! ./chunk-J7AGDWFO.mjs */
+
+/*! ./color.mjs */
+
+/*! ./emotion-element-43c6fea0.browser.esm.js */
+
+/*! ./chunk-MFVQSVQB.mjs */
+
+/*! ./chunk-Y5FGD7DM.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./value/utils/resolve-motion-value.mjs */
+
+/*! ./chunk-HK66PB7M.mjs */
+
+/*! ./chunk-7RVLYCMR.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/styled-system */
+
+/*! @chakra-ui/anatomy */
+
+/*! @chakra-ui/toast */
+
+/*! react */
+
+/*! ../events/add-dom-event.mjs */
+
+/*! ./render-step.mjs */
+
+/*! @emotion/serialize */
+
+/*! ./motion-value.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-UIGT7YZF.mjs */
+
+/*! ../animators/waapi/utils/get-final-keyframe.mjs */
+
+/*! ../utils/transitions.mjs */
+
+/*! ./src/Enum.js */
+
+/*! ./chunk-3F7U33P5.mjs */
+
+/*! ../circ.mjs */
+
+/*! ../motion/features/Feature.mjs */
+
+/*! ./chunk-V7WMN6TQ.mjs */
+
+/*! ../../../value/types/numbers/index.mjs */
+
+/*! @emotion/sheet */
+
+/*! ./chunk-GYISOX2E.mjs */
+
+/*! ./chunk-XCES3W5V.mjs */
+
+/*! ./chunk-NJCYBKFH.mjs */
+
+/*! ./utils/is-css-variable.mjs */
+
+/*! ./BaseAnimation.mjs */
+
+/*! ../../render/html/utils/transform.mjs */
+
+/*! ../../animation/interfaces/motion-value.mjs */
+
+/*! react */
+
+/*! ./notifyManager.js */
+
+/*! ./chunk-KJ26FGJD.mjs */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ./chunk-5GOSZLB7.mjs */
+
+/*! ../../../utils/mix/number.mjs */
+
+/*! react */
+
+/*! ../../utils/time-conversion.mjs */
+
+/*! ../../motion/index.mjs */
+
+/*! ./chunk-QWN3S45W.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../../utils/velocity-per-second.mjs */
+
+/*! ../value/use-will-change/is.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/system */
+
+/*! ../utils/is-browser.mjs */
+
+/*! ../utils/default-transitions.mjs */
+
+/*! @chakra-ui/react-children-utils */
+
+/*! ./chunk-VWP3ZVQT.mjs */
+
+/*! ./utils/interpolate.mjs */
+
+/*! ./chunk-5S44M2O4.mjs */
+
+/*! ../../context/MotionConfigContext.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../utils/mix/index.mjs */
+
+/*! ./chunk-ZHQNHOQS.mjs */
+
+/*! ../errors.mjs */
+
+/*! ../events/event-info.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./utils/render.mjs */
+
+/*! ./chunk-SG67NFYS.mjs */
+
+/*! ./chunk-HYCJNCPE.mjs */
+
+/*! ../../../value/types/complex/index.mjs */
+
+/*! react */
+
+/*! ./dimensions.mjs */
+
+/*! react */
+
+/*! ./chunk-U3INMHUO.mjs */
+
+/*! ../utils.mjs */
+
+/*! ../../../components/AnimatePresence/use-presence.mjs */
+
+/*! ./frame.mjs */
+
+/*! ./chunk-3JHDQ75O.mjs */
+
+/*! ./chunk-TECE6HDR.mjs */
+
+/*! ./utils.js */
+
+/*! ./utils/is-svg-tag.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ../geometry/delta-remove.mjs */
+
+/*! react */
+
+/*! ./utils.mjs */
+
+/*! ./chunk-Q5NOVGYN.mjs */
+
+/*! ../../utils/interpolate.mjs */
+
+/*! ./chunk-QWN3S45W.mjs */
+
+/*! react */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./spring/index.mjs */
+
+/*! ../../render/html/utils/transform.mjs */
+
+/*! ../../render/utils/is-controlling-variants.mjs */
+
+/*! ./chunk-OEFJDLVS.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./utils/distance.mjs */
+
+/*! ./chunk-56K2BSAJ.mjs */
+
+/*! ./chunk-K3RH7Y2L.mjs */
+
+/*! ./build-transform.mjs */
+
+/*! ./BaseAnimation.mjs */
+
+/*! ../../animation/utils/is-animation-controls.mjs */
+
+/*! ./chunk-P7SDT22G.mjs */
+
+/*! ../context/MotionConfigContext.mjs */
+
+/*! ./projection/geometry/delta-calc.mjs */
+
+/*! ../../../projection/geometry/delta-calc.mjs */
+
+/*! ./notifyManager.js */
+
+/*! ./useQuery.js */
+
+/*! ./utils/build-attrs.mjs */
+
+/*! hoist-non-react-statics */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-T6ZDZOLO.mjs */
+
+/*! ../is-browser.mjs */
+
+/*! ../generators/keyframes.mjs */
+
+/*! ../utils/pipe.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./test.mjs */
+
+/*! ./chunk-57T4IAPW.mjs */
+
+/*! react-is */
+
+/*! ../numbers/index.mjs */
+
+/*! ../../render/dom/DOMKeyframesResolver.mjs */
+
+/*! ./utils/delay.mjs */
+
+/*! ../../frameloop/microtask.mjs */
+
+/*! @chakra-ui/visually-hidden */
+
+/*! ../../../utils/errors.mjs */
+
+/*! ../animators/MainThreadAnimation.mjs */
+
+/*! ../../context/PresenceContext.mjs */
+
+/*! ./easing/modifiers/reverse.mjs */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ../../../utils/time-conversion.mjs */
+
+/*! @chakra-ui/react-use-safe-layout-effect */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./transform.mjs */
+
+/*! ../../render/dom/utils/is-css-variable.mjs */
+
+/*! react */
+
+/*! ../../svg/lowercase-elements.mjs */
+
+/*! ./src/Utility.js */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./context/MotionContext/index.mjs */
+
+/*! ../../easing/utils/map.mjs */
+
+/*! ./chunk-JN6QBAR6.mjs */
+
+/*! @chakra-ui/color-mode */
+
+/*! ../../projection/geometry/conversion.mjs */
+
+/*! ./chunk-7D6N5TE5.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./drivers/driver-frameloop.mjs */
+
+/*! ./variant-props.mjs */
+
+/*! ./utils/create-render-state.mjs */
+
+/*! ./chunk-HYCJNCPE.mjs */
+
+/*! @chakra-ui/portal */
+
+/*! ../utils/noop.mjs */
+
+/*! @emotion/weak-memoize */
+
+/*! framer-motion */
+
+/*! @chakra-ui/theme-tools */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-HQ6WXDYV.mjs */
+
+/*! ./utils/KeyframesResolver.mjs */
+
+/*! @chakra-ui/react-use-safe-layout-effect */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ../context/SwitchLayoutGroupContext.mjs */
+
+/*! ./delta-apply.mjs */
+
+/*! ./is-variant-label.mjs */
+
+/*! ./projection/styles/scale-correction.mjs */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ./utils/is-svg-tag.mjs */
+
+/*! ./utils/is-controlling-variants.mjs */
+
+/*! ./notifyManager.js */
+
+/*! ./chunk-N2GP2AF7.mjs */
+
+/*! ./chunk-VIVTPWHP.mjs */
+
+/*! ./chunk-UIGT7YZF.mjs */
+
+/*! ./chunk-37N6GCLA.mjs */
+
+/*! ./utils.js */
+
+/*! ../../../utils/is-numerical-string.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ../utils.mjs */
+
+/*! ../utils/errors.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! @chakra-ui/system */
+
+/*! ../../../value/types/color/index.mjs */
+
+/*! ../generators/inertia.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ../../value/types/color/hsla.mjs */
+
+/*! ./utils.mjs */
+
+/*! @chakra-ui/form-control */
+
+/*! ./chunk-LYGBQ47X.mjs */
+
+/*! ../../easing/utils/is-easing-array.mjs */
+
+/*! ./PanSession.mjs */
+
+/*! ./notifyManager.js */
+
+/*! ./visual-element-target.mjs */
+
+/*! ./chunk-CUKBNH6U.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-44OWBZ77.mjs */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ./progress.mjs */
+
+/*! ../../../value/types/numbers/units.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-MGNM2WZQ.mjs */
+
+/*! ./chunk-WSAJBJJ4.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ../../value/types/numbers/units.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ../VisualElement.mjs */
+
+/*! @chakra-ui/icon */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../svg/use-props.mjs */
+
+/*! ./utils/is-svg-component.mjs */
+
+/*! ../../animation/utils/is-animation-controls.mjs */
+
+/*! ../../projection/geometry/models.mjs */
+
+/*! ../numbers/index.mjs */
+
+/*! ../../projection/styles/scale-correction.mjs */
+
+/*! ./chunk-QB2Y5VKH.mjs */
+
+/*! ./utils/variant-props.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/react-context */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-V5KSHSOQ.mjs */
+
+/*! lodash.mergewith */
+
+/*! ../utils/KeyframesResolver.mjs */
+
+/*! ../../value/types/numbers/units.mjs */
+
+/*! @emotion/memoize */
+
+/*! ./chunk-E47HH2QS.mjs */
+
+/*! ./chunk-LDADOVIM.mjs */
+
+/*! ./drag/utils/lock.mjs */
+
+/*! react */
+
+/*! ./chunk-OB7MMEC3.mjs */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ./QueryErrorResetBoundary.js */
+
+/*! ./array.mjs */
+
+/*! ./queryCache.js */
+
+/*! ./chunk-B75T2J64.mjs */
+
+/*! @chakra-ui/close-button */
+
+/*! react */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./queryObserver.js */
+
+/*! ../../utils/errors.mjs */
+
+/*! react */
+
+/*! @chakra-ui/react-use-merge-refs */
+
+/*! ./noop.mjs */
+
+/*! ../styles/scale-correction.mjs */
+
+/*! ./queryClient.js */
+
+/*! react/jsx-runtime */
+
+/*! ./removable.js */
+
+/*! ./chunk-AFCBUAM5.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ../utils.mjs */
+
+/*! ./removable.js */
+
+/*! react */
+
+/*! ../../../utils/errors.mjs */
+
+/*! ../../gestures/press.mjs */
+
+/*! ./store.mjs */
+
+/*! ./chunk-XHYVH6UO.mjs */
+
+/*! ./chunk-AMBGAKG2.mjs */
+
+/*! ./utils/build-styles.mjs */
+
+/*! ./chunk-6IC2I3BY.mjs */
+
+/*! ../animators/AcceleratedAnimation.mjs */
+
+/*! @chakra-ui/react-context */
+
+/** @license React v16.13.1
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*! react */
+
+/*! ../../utils/clamp.mjs */
+
+/*! @chakra-ui/close-button */
+
+/*! ./waapi/utils/get-final-keyframe.mjs */
+
+/*! ./utils/use-unmount-effect.mjs */
+
+/*! @tanstack/query-core */
+
+/*! react */
+
+/*! ../../utils/is-ref-object.mjs */
+
+/*! ./defaults.mjs */
+
+/*! ./chunk-2KWJXISX.mjs */
+
+/*! ./chunk-J37R6SZE.mjs */
+
+/*! ./render/dom/motion.mjs */
+
+/*! ../../utils/use-isomorphic-effect.mjs */
+
+/*! ../../utils/time-conversion.mjs */
+
+/*! ./chunk-F7CKIHPM.mjs */
+
+/*! ./subscribable.js */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! @emotion/use-insertion-effect-with-fallbacks */
+
+/*! ../svg/SVGVisualElement.mjs */
+
+/*! ../../events/event-info.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../value/utils/resolve-motion-value.mjs */
+
+/*! ../../utils/use-constant.mjs */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ../../gestures/focus.mjs */
+
+/*! ./query.js */
+
+/*! ./chunk-45VJLTIL.mjs */
+
+/*! @chakra-ui/theme */
+
+/*! ./chunk-3Y4YXCR2.mjs */
+
+/*! ./chunk-L3YAB6CV.mjs */
+
+/*! ./subscribable.js */
+
+/*! ../animation/mix-values.mjs */
+
+/*! ./chunk-3WO5B3NB.mjs */
+
+/*! ../../../frameloop/frame.mjs */
+
+/*! ./html/utils/transform.mjs */
+
+/*! ../../events/add-pointer-event.mjs */
+
+/*! ../../../value/types/numbers/index.mjs */
+
+/*! ./hex.mjs */
+
+/*! ../../events/event-info.mjs */
+
+/*! ../../value/types/complex/index.mjs */
+
+/*! ./easing.mjs */
+
+/*! @chakra-ui/css-reset */
+
+/*! ../../utils/is-zero-value-string.mjs */
+
+/*! ../../utils/delay.mjs */
+
+/*! ./value-types/dimensions.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @tanstack/query-core */
+
+/*! @emotion/styled */
+
+/*! ./chunk-DA7QIPTJ.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./cjs/react-is.production.min.js */
+
+/*! @chakra-ui/alert */
+
+/*! @chakra-ui/system */
+
+/*! react */
+
+/*! ../context/LazyContext.mjs */
+
+/*! framer-motion */
+
+/*! ./chunk-5FA7Y3RP.mjs */
+
+/*! ../../easing/ease.mjs */
+
+/*! ../../value/utils/is-motion-value.mjs */
+
+/*! ../../dom/value-types/get-as-type.mjs */
+
+/*! ../../gestures/hover.mjs */
+
+/*! ../../animation/optimized-appear/data-id.mjs */
+
+/*! ./use-isomorphic-effect.mjs */
+
+/*! ./modifiers/reverse.mjs */
+
+/*! ../dom/value-types/defaults.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./query.js */
+
+/*! react */
+
+/*! ./chunk-LDADOVIM.mjs */
+
+/*! ../../utils/clamp.mjs */
+
+/*! react */
+
+/*! ../html/use-props.mjs */
+
+/*! ./chunk-5MKCW436.mjs */
+
+/*! react */
+
+/*! ./chunk-ZREGO6US.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../geometry/utils.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ../../animation/interfaces/single-value.mjs */
+
+/*! ./utils.js */
+
+/*! @chakra-ui/portal */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/utils */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./utils/build-styles.mjs */
+
+/*! ./hsla.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! @chakra-ui/icon */
+
+/*! @chakra-ui/theme-tools */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../projection/utils/measure.mjs */
+
+/*! ../../projection/geometry/delta-calc.mjs */
+
+/*! ../cubic-bezier.mjs */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ../../utils/subscription-manager.mjs */
+
+/*! ./chunk-B4LBJQ3X.mjs */
+
+/*! ../../utils/errors.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @emotion/weak-memoize */
+
+/*! ./chunk-UQDW7KKV.mjs */
+
+/*! ./chunk-X6XFE4TF.mjs */
+
+/*! ../../animation/utils/transitions.mjs */
+
+/*! ./observers.mjs */
+
+/*! @chakra-ui/icon */
+
+/*! @chakra-ui/shared-utils */
+
+/*! @chakra-ui/anatomy */
+
+/*! @chakra-ui/react-context */
+
+/*! @chakra-ui/theme-tools */
+
+/*! react/jsx-runtime */
+
+/*! ./number.mjs */
+
+/*! ./chunk-FDQH4LQI.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/shared-utils */
+
+/*! @emotion/utils */
+
+/*! ../../utils/offsets/time.mjs */
+
+/*! ./utils/create-render-state.mjs */
+
+/*! react */
+
+/*! ./utils/can-animate.mjs */
+
+/*! ./chunk-VWP3ZVQT.mjs */
+
+/*! ./utils/unit-conversion.mjs */
+
+/*! ./cubic-bezier.mjs */
+
+/*! react */
+
+/*! @chakra-ui/anatomy */
+
+/*! @chakra-ui/color-mode */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-NNA4E64A.mjs */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! ./chunk-M3TFMUOL.mjs */
+
+/*! ../../utils/progress.mjs */
+
+/*! react */
+
+/*! ./chunk-7FWEOSAE.mjs */
+
+/*! ./value/utils/is-motion-value.mjs */
+
+/*! ./rgba.mjs */
+
+/*! @chakra-ui/alert */
+
+/*! @chakra-ui/anatomy */
+
+/*! ../utils/subscription-manager.mjs */
+
+/*! ./chunk-ZHMYA64R.mjs */
+
+/*! ./chunk-2GBDXOMA.mjs */
+
+/*! ../../value/types/color/index.mjs */
+
+/*! ../../render/utils/is-controlling-variants.mjs */
+
+/*! ../utils/velocity.mjs */
+
+/*! ./chunk-U3INMHUO.mjs */
+
+/*! ./components/AnimatePresence/use-presence.mjs */
+
+/*! @emotion/is-prop-valid */
+
+/*! ./type-auto.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/react-use-merge-refs */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! @tanstack/query-core */
+
+/*! react */
+
+/*! ../../motion/features/drag.mjs */
+
+/*! ../html/utils/transform.mjs */
+
+/*! @chakra-ui/provider */
+
+/*! @chakra-ui/styled-system */
+
+/*! react */
+
+/*! ../../easing/circ.mjs */
+
+/*! @emotion/react */
+
+/*! @chakra-ui/system */
+
+/*! ./chunk-37MNRBP2.mjs */
+
+/*! ../../motion/utils/is-forced-motion-value.mjs */
+
+/*! ./QueryErrorResetBoundary.js */
+
+/*! ../../dom/utils/is-css-variable.mjs */
+
+/*! ../../../utils/time-conversion.mjs */
+
+/*! ./chunk-OEFJDLVS.mjs */
+
+/*! @chakra-ui/utils */
+
+/*! ../utils/GlobalConfig.mjs */
+
+/*! ./useMutation.js */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./render/store.mjs */
+
+/*! ../../../frameloop/sync-time.mjs */
+
+/*! ../../utils/use-constant.mjs */
+
+/*! ./isRestoring.js */
+
+/*! ./utils/mix/index.mjs */
+
+/*! @emotion/utils */
+
+/*! react/jsx-runtime */
+
+/*! ../hsla-to-rgba.mjs */
+
+/*! color2k */
+
+/*! react */
+
+/*! ../errors.mjs */
+
+/*! @emotion/react */
+
+/*! ../../value/utils/is-motion-value.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../dom/value-types/defaults.mjs */
+
+/*! @chakra-ui/react-use-update-effect */
+
+/*! ./chunk-7FWEOSAE.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./chunk-6XA2KDUD.mjs */
+
+/*! ./find.mjs */
+
+/*! ./transform-origin.mjs */
+
+/*! ../frameloop/frame.mjs */
+
+/*! ../pipe.mjs */
+
+/*! react */
+
+/*! ../../gestures/drag/index.mjs */
+
+/*! @emotion/utils */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ../utils/GlobalConfig.mjs */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ../../utils/errors.mjs */
+
+/*! ./utils/scrape-motion-values.mjs */
+
+/*! ./rgba.mjs */
+
+/*! ./chunk-57T4IAPW.mjs */
+
+/*! @chakra-ui/react-utils */
+
+/*! ../base/dist/emotion-styled-base.browser.esm.js */
+
+/*! ./chunk-OA3DH5LS.mjs */
+
+/*! ../../../animation/utils/is-animation-controls.mjs */
+
+/*! ./chunk-7RVLYCMR.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! @emotion/weak-memoize */
+
+/*! ./utils/camel-case-attrs.mjs */
+
+/*! ../back.mjs */
+
+/*! ../../html/utils/build-styles.mjs */
+
+/*! ./Enum.js */
+
+/*! ./src/Serializer.js */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ../../context/PresenceContext.mjs */
+
+/*! ../../motion/features/animations.mjs */
+
+/*! react */
+
+/*! ./chunk-3DDHO3UN.mjs */
+
+/*! ./QueryClientProvider.js */
+
+/*! ./utils/use-force-update.mjs */
+
+/*! ./chunk-JN6QBAR6.mjs */
+
+/*! ./path.mjs */
+
+/*! ../../events/add-dom-event.mjs */
+
+/*! @emotion/react */
+
+/*! ./errors.mjs */
+
+/*! ../../render/dom/utils/is-svg-element.mjs */
+
+/*! ./chunk-QB2Y5VKH.mjs */
+
+/*! ../projection/geometry/models.mjs */
+
+/*! ../html/utils/make-none-animatable.mjs */
+
+/*! @emotion/cache */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-3Y4YXCR2.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/styled-system */
+
+/*! react/jsx-runtime */
+
+/*! ./utils/is-variant-label.mjs */
+
+/*! ./chunk-N2GP2AF7.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../../events/add-dom-event.mjs */
+
+/*! ./drag/utils/lock.mjs */
+
+/*! react */
+
+/*! ./utils/is-svg-tag.mjs */
+
+/*! ../../events/add-pointer-event.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./fill.mjs */
+
+/*! ./chunk-5VJV6UNA.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-V7WMN6TQ.mjs */
+
+/*! ./chunk-NEDBTDT2.mjs */
+
+/*! @chakra-ui/react-env */
+
+/*! ../../utils/pipe.mjs */
+
+/*! ./chunk-LDADOVIM.mjs */
+
+/*! ../utils/has-transform.mjs */
+
+/*! react */
+
+/*! @chakra-ui/react-use-safe-layout-effect */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ../numbers/units.mjs */
+
+/*! ./camel-case-attrs.mjs */
+
+/*! ./chunk-SG67NFYS.mjs */
+
+/*! ./utils/scrape-motion-values.mjs */
+
+/*! ./chunk-MGNM2WZQ.mjs */
+
+/*! ../../utils/noop.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../utils/memo.mjs */
+
+/*! ../../../projection/node/state.mjs */
+
+/*! ./clamp.mjs */
+
+/*! ./chunk-NJCYBKFH.mjs */
+
+/*! ./context/SwitchLayoutGroupContext.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./chunk-OB7MMEC3.mjs */
+
+/*! @chakra-ui/portal */
+
+/*! ../utils/has-transform.mjs */
+
+/*! ../dom/utils/camel-to-dash.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./utils/create-render-state.mjs */
+
+/*! @chakra-ui/css-reset */
+
+/*! ./chunk-HQ6WXDYV.mjs */
+
+/*! ../value/index.mjs */
+
+/*! ./components/AnimatePresence/index.mjs */
+
+/*! ../utils/subscription-manager.mjs */
+
+/*! ./chunk-7D6N5TE5.mjs */
+
+/*! ../color/index.mjs */
+
+/*! ../../value/types/complex/index.mjs */
+
+/*! ./chunk-J37R6SZE.mjs */
+
+/*! ./chunk-V5KSHSOQ.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ../../html/utils/render.mjs */
+
+/*! ../utils.mjs */
+
+/*! ./chunk-XHYVH6UO.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./is-css-variable.mjs */
+
+/*! ./chunk-QURMB2UJ.mjs */
+
+/*! ../../utils/errors.mjs */
+
+/*! ./src/Middleware.js */
+
+/*! react */
+
+/*! ../../value/utils/is-motion-value.mjs */
+
+/*! ./type-int.mjs */
+
+/*! ./utils/create-render-state.mjs */
+
+/*! ../../render/utils/KeyframesResolver.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-AFCBUAM5.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ../../value/types/numbers/units.mjs */
+
+/*! ./create-projection-node.mjs */
+
+/*! react */
+
+/*! react */
+
+/*! ./pipe.mjs */
+
+/*! ./chunk-ULEC7HZU.mjs */
+
+/*! ./chunk-F7CKIHPM.mjs */
+
+/*! ../../../projection/styles/scale-box-shadow.mjs */
+
+/*! ./chunk-LYGBQ47X.mjs */
+
+/*! @chakra-ui/react-context */
+
+/*! ../../../value/types/numbers/units.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ../../motion/features/gestures.mjs */
+
+/*! ./chunk-VXESY33O.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./utils.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! react */
+
+/*! ./QueryClientProvider.js */
+
+/*! ./focusManager.js */
+
+/*! ./chunk-IZUFFCXS.mjs */
+
+/*! react */
+
+/*! ./chunk-2KWJXISX.mjs */
+
+/*! @zag-js/dom-query */
+
+/*! ./chunk-6XA2KDUD.mjs */
+
+/*! ./queryCache.js */
+
+/*! ./isRestoring.js */
+
+/*! @babel/runtime/helpers/extends */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-E47HH2QS.mjs */
+
+/*! ./subscribable.js */
+
+/*! ./chunk-5PH6ULNP.mjs */
+
+/*! lodash.mergewith */
+
+/*! ../../dom/utils/camel-to-dash.mjs */
+
+/*! ./focusManager.js */
+
+/*! ../../frameloop/sync-time.mjs */
+
+/*! ./modifiers/reverse.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../utils/transitions.mjs */
+
+/*! ./gestures/drag/utils/lock.mjs */
+
+/*! ../frameloop/frame.mjs */
+
+/*! ./chunk-2TOCDA5N.mjs */
+
+/*! ../../../value/types/complex/filter.mjs */
+
+/*! ../geometry/delta-apply.mjs */
+
+/*! ./chunk-L3YAB6CV.mjs */
+
+/*! ./chunk-X7ZBZ4KW.mjs */
+
+/*! ../frameloop/frame.mjs */
+
+/*! ./utils/build-attrs.mjs */
+
+/*! @emotion/use-insertion-effect-with-fallbacks */
+
+/*! ../../../easing/utils/is-bezier-definition.mjs */
+
+/*! ./chunk-XMZHFSTS.mjs */
+
+/*! ../value/types/complex/index.mjs */
+
+/*! ../../animation/utils/is-none.mjs */
+
+/*! ../../../value/utils/is-motion-value.mjs */
+
+/*! ./notifyManager.js */
+
+/*! ./utils/build-attrs.mjs */
+
+/*! ./easing/modifiers/mirror.mjs */
+
+/*! react */
+
+/*! ../../render/utils/resolve-dynamic-variants.mjs */
+
+/*! ./retryer.js */
+
+/*! @chakra-ui/anatomy */
+
+/*! ../../dom/value-types/number.mjs */
+
+/*! ./chunk-3RENZ2UO.mjs */
+
+/*! ../../../utils/clamp.mjs */
+
+/*! ./mutationCache.js */
+
+/*! ../dom/utils/unit-conversion.mjs */
+
+/*! ./chunk-5FA7Y3RP.mjs */
+
+/*! ./add-dom-event.mjs */
+
+/*! ../generators/spring/index.mjs */
+
+/*! ../geometry/delta-apply.mjs */
+
+/*! ../utils/reduced-motion/state.mjs */
+
+/*! ./Enum.js */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./event-info.mjs */
+
+/*! ./utils.js */
+
+/*! ../../../value/types/complex/filter.mjs */
+
+/*! ./projection/geometry/models.mjs */
+
+/*! ../../utils/use-isomorphic-effect.mjs */
+
+/*! ./chunk-TXLFBUTF.mjs */
+
+/*! ../dom/utils/is-css-variable.mjs */
+
+/*! ./chunk-HYCJNCPE.mjs */
+
+/*! ./layout/MeasureLayout.mjs */
+
+/*! ./is-variant-label.mjs */
+
+/*! ../../frameloop/microtask.mjs */
+
+/*! ./focusManager.js */
+
+/*! ./waapi/utils/get-final-keyframe.mjs */
+
+/*! ../motion/features/Feature.mjs */
+
+/*! @tanstack/query-core */
+
+/*! @chakra-ui/anatomy */
+
+/*! ../../render/utils/setters.mjs */
+
+/*! ./mix/index.mjs */
+
+/*! ./chunk-45VJLTIL.mjs */
+
+/*! ../../motion/utils/use-visual-state.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./animation/generators/spring/index.mjs */
+
+/*! ./Enum.js */
+
+/*! ../../../value/types/numbers/index.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ./chunk-ZREGO6US.mjs */
+
+/*! react */
+
+/*! @chakra-ui/shared-utils */
+
+/*! react */
+
+/*! ../../html/config-motion.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../../../utils/progress.mjs */
+
+/*! @chakra-ui/react-use-safe-layout-effect */
+
+/*! ./delta-calc.mjs */
+
+/*! ./context/LayoutGroupContext.mjs */
+
+/*! ./src/Parser.js */
+
+/*! react */
+
+/*! ./focusManager.js */
+
+/*! ../geometry/copy.mjs */
+
+/*! ./retryer.js */
+
+/*! ./chunk-ZQMLTFF3.mjs */
+
+/*! ./utils/use-motion-ref.mjs */
+
+/*! ../../../motion/utils/valid-prop.mjs */
+
+/*! ../../utils/shallow-compare.mjs */
+
+/*! ./utils.js */
+
+/*! ./chunk-X6XFE4TF.mjs */
+
+/*! ../../render/utils/is-variant-label.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./utils/filter-props.mjs */
+
+/*! ../../../utils/errors.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! react */
+
+/*! @chakra-ui/form-control */
+
+/*! react/jsx-runtime */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ./chunk-MBVM6PEK.mjs */
+
+/*! ./Tokenizer.js */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ../utils/velocity-per-second.mjs */
+
+/*! @chakra-ui/object-utils */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ../geometry/conversion.mjs */
+
+/*! ./chunk-XCES3W5V.mjs */
+
+/*! ./chunk-SIH73G3H.mjs */
+
+/*! ./chunk-NNA4E64A.mjs */
+
+/*! ./chunk-6RSEZNRH.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ./chunk-NEDBTDT2.mjs */
+
+/*! ./easing/cubic-bezier.mjs */
+
+/*! ./chunk-DFWC5MHP.mjs */
+
+/*! ./Tokenizer.js */
+
+/*! ../../utils/get-context-window.mjs */
+
+/*! ./chunk-W7WUSNWJ.mjs */
+
+/*! ./chunk-FU5DDBRC.mjs */
+
+/*! ./chunk-44OWBZ77.mjs */
+
+/*! ../../render/utils/KeyframesResolver.mjs */
+
+/*! ../../value/use-will-change/is.mjs */
+
+/*! ../animation/utils/is-keyframes-target.mjs */
+
+/*! @chakra-ui/system */
+
+/*! ../events/add-pointer-event.mjs */
+
+/*! ../../context/MotionConfigContext.mjs */
+
+/*! ../mix/number.mjs */
+
+/*! @chakra-ui/spinner */
+
+/*! ../utils/noop.mjs */
+
+/*! ../html/HTMLVisualElement.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ../../motion/features/Feature.mjs */
+
+/*! react */
+
+/*! @chakra-ui/system */
+
+/*! ./utils/GlobalConfig.mjs */
+
+/*! ./layout/MeasureLayout.mjs */
+
+/*! ../../motion/index.mjs */
+
+/*! @chakra-ui/utils */
+
+/*! ../../context/PresenceContext.mjs */
+
+/*! react */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ../../../render/utils/animation-state.mjs */
+
+/*! ../utils/reduced-motion/index.mjs */
+
+/*! ./index.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./create-visual-element.mjs */
+
+/*! ../../utils/noop.mjs */
+
+/*! ./DocumentProjectionNode.mjs */
+
+/*! @chakra-ui/form-control */
+
+/*! ../../../projection/styles/scale-border-radius.mjs */
+
+/*! ./motion/features/animations.mjs */
+
+/*! ../progress.mjs */
+
+/*! ./chunk-5VJV6UNA.mjs */
+
+/*! ./utils/is-browser.mjs */
+
+/*! ../generators/utils/calc-duration.mjs */
+
+/*! ./Utility.js */
+
+/*! ../value/utils/is-motion-value.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./modifiers/mirror.mjs */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./easing/ease.mjs */
+
+/*! ../../value/types/color/hex.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./animation/exit.mjs */
+
+/*! ./batcher.mjs */
+
+/*! ./easing/circ.mjs */
+
+/*! ./chunk-WXARPSDQ.mjs */
+
+/*! react */
+
+/*! ./chunk-Y5FGD7DM.mjs */
+
+/*! ./easing/back.mjs */
+
+/*! ../../../value/types/complex/index.mjs */
+
+/*! ../../utils/GlobalConfig.mjs */
+
+/*! ./complex.mjs */
+
+/*! ./easing/anticipate.mjs */
+
+/*! ./context/PresenceContext.mjs */
+
+/*! ./is-svg-component.mjs */
+
+/*! ./subscribable.js */
+
+/*! ../../utils/array.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-OA3DH5LS.mjs */
+
+/*! ../motion/features/Feature.mjs */
+
+/*! ../utils.mjs */
+
+/*! ./chunk-HK66PB7M.mjs */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ./utils/scrape-motion-values.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-VHM7WLW6.mjs */
+
+/*! ./src/Tokenizer.js */
+
+/*! @babel/runtime/helpers/esm/extends */
+
+/*! ./cubic-bezier.mjs */
+
+/*! ./chunk-5PL47M24.mjs */
+
+/*! ../../context/LayoutGroupContext.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ./waapi/index.mjs */
+
+/*! ../../animation/interfaces/visual-element.mjs */
+
+/*! ../../utils/is-ref-object.mjs */
+
+/*! @chakra-ui/toast */
+
+/*! @emotion/serialize */
+
+/*! @chakra-ui/system */
+
+/*! ./chunk-YTQ3XZ3T.mjs */
+
+/*! ./chunk-VMD3UMGK.mjs */
+
+/*! ./utils/render.mjs */
+
+/*! ./chunk-FDQH4LQI.mjs */
+
+/*! ./number.mjs */
+
+/*! ./chunk-SRBDDT7F.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-46CXQZ4E.mjs */
+
+/*! ./utils/progress.mjs */
+
+/*! ./render/dom/utils/filter-props.mjs */
+
+/*! ../../utils/use-instant-transition-state.mjs */
+
+/*! ../../motion/features/Feature.mjs */
+
+/*! ../../../projection/styles/scale-correction.mjs */
+
+/*! @chakra-ui/theme */
+
+/*! @chakra-ui/react-env */
+
+/*! ./create-projection-node.mjs */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ../context/MotionContext/index.mjs */
+
+/*! @chakra-ui/react-children-utils */
+
+/*! ../../utils/resolve-value.mjs */
+
+/*! @chakra-ui/react-context */
+
+/*! ./utils.js */
+
+/*! ../optimized-appear/data-id.mjs */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! react */
+
+/*! ./chunk-O6GGGS4Y.mjs */
+
+/*! ../../utils/offsets/default.mjs */
+
+/*! ../../value/index.mjs */
+
+/*! ./transform.mjs */
+
+/*! ./utils/pipe.mjs */
+
+/*! ./chunk-R7ZISUMV.mjs */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! @chakra-ui/visually-hidden */
+
+/*! ../../render/utils/flat-tree.mjs */
+
+/*! ./render/html/utils/build-transform.mjs */
+
+/*! @chakra-ui/icon */
+
+/*! @chakra-ui/theme-tools */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./waapi/utils/get-final-keyframe.mjs */
+
+/*! ../utils/is-ref-object.mjs */
+
+/*! @chakra-ui/react-use-timeout */
+
+/*! ../../value/use-will-change/is.mjs */
+
+/*! ../../projection/utils/each-axis.mjs */
+
+/*! ./frameloop/frame.mjs */
+
+/*! ../pan/PanSession.mjs */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./subscribable.js */
+
+/*! react */
+
+/*! ./context/MotionConfigContext.mjs */
+
+/*! ../../../value/utils/is-motion-value.mjs */
+
+/*! ./chunk-D6DZ26HA.mjs */
+
+/*! ../../value/types/complex/index.mjs */
+
+/*! ./utils/lock.mjs */
+
+/*! ./utils/motion-values.mjs */
+
+/*! ./chunk-OLTBUDV5.mjs */
+
+/*! ../../../value/types/numbers/index.mjs */
+
+/*! ./mutation.js */
+
+/*! ./utils/clamp.mjs */
+
+/*! ../events/add-dom-event.mjs */
+
+/*! ./chunk-ZJJGQIVY.mjs */
+
+/*! ./value/index.mjs */
+
+/*! ../frameloop/frame.mjs */
+
+/*! ../../frameloop/frame.mjs */
+
+/*! ./render/utils/flat-tree.mjs */
+
+/*! @chakra-ui/theme-tools */
+
+/*! ./use-is-mounted.mjs */
+
+/*! ../../utils/distance.mjs */
+
+/*! ../geometry/models.mjs */
+
+/*! ./chunk-XHYVH6UO.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! react */
+
+/*! @emotion/memoize */
+
+/*! ../anticipate.mjs */
+
+/*! ./value/types/complex/index.mjs */
+
+/*! react */
+
+/*! ../utils/is-numerical-string.mjs */
+
+/*! ../../value/index.mjs */
+
+/*! ./chunk-ZQMLTFF3.mjs */
+
+/*! ../../render/utils/resolve-variants.mjs */
+
+/*! react */
+
+/*! ../../utils/is-animatable.mjs */
+
+/*! ./chunk-GYISOX2E.mjs */
+
+/*! ./utils.js */
+
+/*! ./events/event-info.mjs */
+
+/*! ../../utils/resolve-value.mjs */
+
+/*! ../../render/dom/utils/camel-to-dash.mjs */
+
+/*! ./dom/value-types/animatable-none.mjs */
+
+/*! @chakra-ui/color-mode */
+
+/*! @chakra-ui/button */
+
+/*! ./utils/velocity.mjs */
+
+/*! ./chunk-ITIKTQWJ.mjs */
+
+/*! ./utils.js */
+
+/*! @chakra-ui/spinner */
+
+/*! ../../value/utils/is-motion-value.mjs */
+
+/*! ./chunk-DMO4EI7P.mjs */
+
+/*! ./visual-element-variant.mjs */
+
+/*! ./chunk-6CVSDS6C.mjs */
+
+/*! ./PresenceChild.mjs */
+
+/*! ./chunk-DFWC5MHP.mjs */
+
+/*! ./features/load-features.mjs */
+
+/*! stylis */
+
+/*! ../../render/html/utils/transform.mjs */
+
+/*! ./utils/css-variables-conversion.mjs */
+
+/*! ../../events/add-pointer-event.mjs */
+
+/*! ./chunk-Q5ZQE4MD.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ../../utils/pipe.mjs */
+
+/*! ./Utility.js */
+
+/*! ../../../utils/clamp.mjs */
+
+/*! ../Feature.mjs */
+
+/*! ./utils/errors.mjs */
+
+/*! ../../utils/use-is-mounted.mjs */
+
+/*! ./chunk-3RENZ2UO.mjs */
+
+/*! @zag-js/focus-visible */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./utils.js */
+
+/*! ./infiniteQueryBehavior.js */
+
+/*! ./utils/render.mjs */
+
+/*! ./chunk-BNQWYFTH.mjs */
+
+/*! react */
+
+/*! ./subscribable.js */
+
+/*! ../events/add-pointer-event.mjs */
+
+/*! ./chunk-ZFQCCYWD.mjs */
+
+/*! ./events/add-pointer-event.mjs */
+
+/*! ./chunk-XCES3W5V.mjs */
+
+/*! @emotion/memoize */
+
+/*! @chakra-ui/react-use-callback-ref */
+
+/*! ./query.js */
+
+/*! ../utils/is-motion-value.mjs */
+
+/*! @chakra-ui/input */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-3KCBMPN5.mjs */
+
+/*! ./chunk-Q5NOVGYN.mjs */
+
+/*! ./chunk-J7AGDWFO.mjs */
+
+/*! ./DOMKeyframesResolver.mjs */
+
+/*! ../../../value/types/numbers/units.mjs */
+
+/*! react */
+
+/*! ./chunk-LDADOVIM.mjs */
+
+/*! ../../value/index.mjs */
+
+/*! ./index.mjs */
+
+/*! ./animation/animators/AcceleratedAnimation.mjs */
+
+/*! ../../projection/geometry/models.mjs */
+
+/*! ./chunk-6XA2KDUD.mjs */
+
+/*! ./variant-props.mjs */
+
+/*! ../../motion/utils/use-visual-state.mjs */
+
+/*! ../../../value/types/numbers/units.mjs */
+
+/*! ../../utils/time-conversion.mjs */
+
+/*! @chakra-ui/react-context */
+
+/*! ./chunk-UV3F75RF.mjs */
+
+/*! ./utils/use-isomorphic-effect.mjs */
+
+/*! ./motion-value.mjs */
+
+/*! ./chunk-IZUFFCXS.mjs */
+
+/*! ./errorBoundaryUtils.js */
+
+/*! ../geometry/delta-calc.mjs */
+
+/*! ./utils/is-node-or-child.mjs */
+
+/*! ./value/types/color/index.mjs */
+
+/*! ./visual-element-target.mjs */
+
+/*! ./utils/symbol.mjs */
+
+/*! ../../context/MotionContext/index.mjs */
+
+/*! ./chunk-ULEC7HZU.mjs */
+
+/*! ./resolve-dynamic-variants.mjs */
+
+/*! ./chunk-5S44M2O4.mjs */
+
+/*! ../context/MotionContext/create.mjs */
+
+/*! ./state.mjs */
+
+/*! ../utils/each-axis.mjs */
+
+/*! ./motion/utils/valid-prop.mjs */
+
+/*! ../../projection/node/HTMLProjectionNode.mjs */
+
+/*! ./chunk-ALC6QPCI.mjs */
+
+/*! ../../utils/use-force-update.mjs */
+
+/*! ../../utils/use-unmount-effect.mjs */
+
+/*! @chakra-ui/checkbox */
+
+/*! react */
+
+/*! @chakra-ui/breakpoint-utils */
+
+/*! @chakra-ui/styled-system */
+
+/*! react */
+
+/*! ./onlineManager.js */
+
+/*! ../../context/LazyContext.mjs */
+
+/*! @emotion/use-insertion-effect-with-fallbacks */
+
+/*! ./suspense.js */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-TECE6HDR.mjs */
+
+/*! ./mutationCache.js */
+
+/*! @chakra-ui/anatomy */
+
+/*! @chakra-ui/react-context */
+
+/*! ../../dom/value-types/animatable-none.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./onlineManager.js */
+
+/*! ./chunk-MBVM6PEK.mjs */
+
+/*! ./chunk-2TOCDA5N.mjs */
+
+/*! ./compare-by-depth.mjs */
+
+/*! ./utils.js */
+
+/*! ../../utils/time-conversion.mjs */
+
+/*! ../styles/transform.mjs */
+
+/*! ./notifyManager.js */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ../../utils/use-instant-transition-state.mjs */
+
+/*! ../utils/noop.mjs */
+
+/*! ./mutationObserver.js */
+
+/*! ./QueryClientProvider.js */
+
+/*! ../utils.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-VIVTPWHP.mjs */
+
+/*! ../../context/PresenceContext.mjs */
+
+/*! ./chunk-LHPMGMGT.mjs */
+
+/*! ./chunk-K3RH7Y2L.mjs */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-TXLFBUTF.mjs */
+
+/*! ../../../context/SwitchLayoutGroupContext.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! @chakra-ui/shared-utils */
+
+/*! ./chunk-FU5DDBRC.mjs */
+
+/*! ./utils/is-svg-component.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./utils/transform.mjs */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./retryer.js */
+
+/*! ./noop.mjs */
+
+/*! @emotion/unitless */
+
+/*! ../../../utils/clamp.mjs */
+
+/*! @emotion/hash */
+
+/*! ./viewport/index.mjs */
+
+/*! ../../utils/array.mjs */
+
+/*! ./chunk-CWVAJCXJ.mjs */
+
+/*! ../../debug/record.mjs */
+
+/*! ./chunk-UQDW7KKV.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./chunk-FNB7ZWWX.mjs */
+
+/*! ./chunk-ZQMLTFF3.mjs */
+
+/*! react */
+
+/*! ../../html/utils/transform.mjs */
+
+/*! ./VisualElementDragControls.mjs */
+
+/*! @chakra-ui/layout */
+
+/*! ../frameloop/sync-time.mjs */
+
+/*! react */
+
+/*! ./chunk-ICL3HPTT.mjs */
+
+/*! ./utils.js */
+
+/*! ./animation/animators/MainThreadAnimation.mjs */
+
+/*! @emotion/use-insertion-effect-with-fallbacks */
+
+/*! ../utils.mjs */
+
+/*! ./modifiers/mirror.mjs */
+
+/*! ./onlineManager.js */
+
+/*! ../frameloop/sync-time.mjs */
+
+/*! ./chunk-ZQMLTFF3.mjs */
+
+/*! @chakra-ui/anatomy */
+
+/*! ./number.mjs */
+
+/*! @chakra-ui/spinner */
+
+/*! react/jsx-runtime */
+
+/*! ./chunk-T6ZDZOLO.mjs */
+
+/*! ./utils.js */
+
+/*! @chakra-ui/system */
+
+/*! @chakra-ui/styled-system */
+
+/*! ./animation/interfaces/visual-element.mjs */
+
+/*! ../utils/pipe.mjs */
+
+/*! ../../utils/mix/number.mjs */
+
+/*! ../dom/DOMVisualElement.mjs */
+
+/*! ./chunk-XCES3W5V.mjs */
+
+/*! ./utils/constraints.mjs */
+
+/*! ../../render/utils/resolve-dynamic-variants.mjs */
+
+/*! react/jsx-runtime */
+
+/*! ../../motion/features/layout.mjs */

@@ -1,0 +1,71 @@
+/*! core-js/modules/es.error.cause.js */
+
+/*! ./components/TodoViewer */
+
+/*! ../hooks/useTodosQuery */
+
+/*! react/jsx-runtime */
+
+/*! ./App.scss */
+
+/*! @chakra-ui/react */
+
+/*! ./TodoItem */
+
+/*! core-js/modules/esnext.iterator.map.js */
+
+/*! react-dom/client */
+
+/*! @chakra-ui/react */
+
+/*! @chakra-ui/react */
+
+/*! react/jsx-runtime */
+
+/*! @tanstack/react-query */
+
+/*! core-js/modules/esnext.async-iterator.map.js */
+
+/*! @chakra-ui/react */
+
+/*! @tanstack/react-query-devtools */
+
+/*! react */
+
+/*! ../services/todos */
+
+/*! react/jsx-runtime */
+
+/*! react/jsx-runtime */
+
+/*! react */
+
+/*! core-js/modules/es.error.cause.js */
+
+/*! ./components/NewTodo */
+
+/*! @chakra-ui/react */
+
+/*! react/jsx-runtime */
+
+/*! ../services/todos */
+
+/*! ../services/todos */
+
+/*! react */
+
+/*! ./App */
+
+/*! @tanstack/react-query */
+
+/*! @chakra-ui/react */
+
+/*! ./TodoList */
+
+/*! react/jsx-runtime */
+
+/*! @chakra-ui/react */
+
+/*! @tanstack/react-query */
+
+/*! @tanstack/react-query */

@@ -2,13 +2,13 @@ import { defineConfig } from "@rsbuild/core"
 import { pluginReact } from "@rsbuild/plugin-react"
 
 export default defineConfig({
-  plugins: [pluginReact()],  
+  plugins: [pluginReact()],
   html: {
     template: "./public/index.html",
   },
   output: {
     distPath: {
-      root: "dist",
+      root: "build",
     },
   },
   server: {
